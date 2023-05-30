@@ -25,20 +25,17 @@ body{
   text-align: center;
   background-color: rgb(255, 255, 255);
   width: 310px;
-  /* height: 600px; */
-  /* padding: 1px 50px;
+  height: 600px;
+  padding: 1px 50px;
   margin:30px 40px;
 }
-
-
 .icon{
   font-size: 100px;
 }
 
 .name{
   color: #2ec2b0;
-}  */
-/* 
+} 
 .content .meaning{
   text-align: center;
 } 
